@@ -16,7 +16,33 @@ body {
 	line-height: 1.2631em; /*24*/
 	
 }
-
 p {
   padding-bottom: 1.2631em; /*24*/
+}
+li {
+  padding-bottom: .63157em; /*12*/
+}
+ul{
+  padding-bottom: 1.2631em; /*24*/
+  margin-left: 1.2631em; /*24*/
+}
+h1{
+  font-size: 1.7768em;
+  line-height: 1.0663em;
+  padding-bottom: .355439em;
+}
+h2{
+  font-size: 1.3440526em;
+  line-height: 0.93981em;
+  padding-bottom: .939812em;
+}
+h3, h4{
+  padding-bottom: 1.2631em; /*24*/
+}
+header{
+  padding-top: 2.5263em;
+  padding-bottom: 1.2631em; /*24*/
+}
+footer{
+  padding-top: 3.78947em;
 }
