@@ -1,0 +1,22 @@
+/* STYLE RESET */
+*{margin: 0; padding: 0;}
+/*end reset */
+
+html {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background-color: #c0c0c0;
+  padding: .75em;
+  padding-top: 0;
+  color: #333333;
+  
+}
+
+body {
+	font-size: 1.1875em;         /*19px*/
+	line-height: 1.2631em; /*24*/
+	
+}
+
+p {
+  padding-bottom: 1.2631em; /*24*/
+}
