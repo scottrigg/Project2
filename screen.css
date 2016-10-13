@@ -61,10 +61,6 @@ nav a {
   color: #fff4e6;
   background-color: #4b3832;
 }
-/*nav a:hover{
-  background-color: green;
-  color: #160A45;
-}*/
 nav li {
   display:inline-block;
 }
