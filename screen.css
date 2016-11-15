@@ -71,6 +71,13 @@ img {
   max-width: 80%;
   padding: .355439em;
   background-color: #854442;
+  min-width: 45%;
+}
+audio{
+  display: block;
+  margin: auto;
+  min-width: 33%;
+  float:left;
 }
 li {
   list-style-type: none;
