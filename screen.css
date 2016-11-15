@@ -8,10 +8,9 @@ html {
   padding: .75em;
   padding-top: 0;
   color: #3c2f2f;
-  
 }
 body {
-	font-size: 1.1875em;         /*19px*/
+	font-size: 1.1875em;  /*19px*/
 	line-height: 1.2631em; /*24*/
 	
 }
@@ -23,7 +22,6 @@ li {
 }
 ul{
   padding-bottom: 1.2631em; /*24*/
-  /*margin-left: 1.2631em; /*24*/
 }
 h1{
   font-size: 1.7768em;
@@ -87,6 +85,34 @@ li {
   
   #image{
     width: 50%;
+  }
+  
+}
+
+/*840px @ 16px*/
+@media screen and (min-width: 52.5em)
+{
+  html {
+    font-size: 1.3em;
+    line-height: 1.25em;
+  }
+  
+  #image {
+    margin: 0;
+    width: 48%;
+  }
+}
+
+/* 1032px @16px */ 
+@media screen and (min-width: 64.5em)
+{
+  html {
+    font-size: 1.4em;
+    line-height: 1.3em;
+  }
+  #image {
+    margin: 0;
+    width: 45%;
   }
   
 }
